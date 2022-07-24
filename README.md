@@ -4,14 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is an application used to calculate the body's BMI depends on height, weight.
 
-A few resources to get you started if this is your first Flutter project:
+### Input Page:
+(![image](https://user-images.githubusercontent.com/74105069/180637773-44768385-e9bb-4b2f-af81-a71e4404cd19.png))
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Result Page:
+![image](https://user-images.githubusercontent.com/74105069/180637799-77126cbf-9fcb-48a5-9bee-86217d6fbe7e.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter_BMI_Caculator
